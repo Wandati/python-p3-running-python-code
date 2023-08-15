@@ -1,0 +1,6 @@
+# print("Hello world!")
+# print("Hello sun!")
+# print("Hello sky!")
+print("Hello world!", end=" ")
+print("Pass this test,", end="!! ")
+print("please.", end="\n")
